@@ -1,8 +1,5 @@
 ### SQL Injection Payload List
 
-<p align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> <img src="https://img.shields.io/github/stars/payloadbox/sql-injection-payload-list?style=social"> <img src="https://img.shields.io/github/forks/payloadbox/sql-injection-payload-list?style=social"> <img src="https://img.shields.io/github/repo-size/payloadbox/sql-injection-payload-list"> <img src="https://img.shields.io/github/license/payloadbox/sql-injection-payload-list"> <img src="https://img.shields.io/github/issues/detail/author/payloadbox/command-injection-payload-list/1">
-</p>
 
 #### SQL Injection
 
@@ -14,9 +11,7 @@ SQL injection is a web security vulnerability that allows an attacker to interfe
 
 In some situations, an attacker can escalate an SQL injection attack to compromise the underlying server or other back-end infrastructure, or perform a denial-of-service attack.
 
-<p align="center"> 
-<img src="/Image/sql-injection.svg">
-</p>
+
 
 |    SQL Injection Type        | Description                     
 |----------------|-------------------------------|
