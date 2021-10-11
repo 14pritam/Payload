@@ -1,23 +1,23 @@
 ### 💥 Exploits Database 💥
 
-http://www.exploit-db.com/
-http://www.intelligentexploit.com
-http://www.shodanhq.com/
-http://packetstormsecurity.com/
+* http://www.exploit-db.com/
+* http://www.intelligentexploit.com
+* http://www.shodanhq.com/
+* http://packetstormsecurity.com/
 
 ### 🎯 Vulnerabilities Database  🎯
 
-https://cve.mitre.org/cve/ 
-http://www.cvedetails.com/
-https://nvd.nist.gov/
-http://osvdb.org/
-https://www.kb.cert.org/vuls/
-https://secunia.com/community/advisories/search/
-http://www.securityfocus.com/bid
-http://lwn.net/Vulnerabilities/
-http://denimgroup.com/resources-threadfix/
-http://www.vulnerability-lab.com
-http://www.secdocs.org/
+* https://cve.mitre.org/cve/ 
+* http://www.cvedetails.com/
+* https://nvd.nist.gov/
+* http://osvdb.org/
+* https://www.kb.cert.org/vuls/
+* https://secunia.com/community/advisories/search/
+* http://www.securityfocus.com/bid
+* http://lwn.net/Vulnerabilities/
+* http://denimgroup.com/resources-threadfix/
+* http://www.vulnerability-lab.com
+* http://www.secdocs.org/
 
 ### 💻 Hacking Tutorials 💻
 
@@ -112,35 +112,35 @@ http://www.onlinehashcrack.com/ [$]
 http://hashcrack.in/en [$]
 
 ### 📁 File Upload 📁
-https://mega.co.nz/
-https://www.mediafire.com/
-https://infotomb.com/m/welcome
-http://sharesend.com/
-http://www.wss-coding.com/upload
-http://zippyshare.com/
-http://filetolink.com/
-http://ge.tt/
-http://largedocument.com/
-http://rghost.net/
-http://dox.abv.bg/files/share
-http://secureupload.eu/
+* https://mega.co.nz/
+* https://www.mediafire.com/
+* https://infotomb.com/m/welcome
+* http://sharesend.com/
+* http://www.wss-coding.com/upload
+* http://zippyshare.com/
+* http://filetolink.com/
+* http://ge.tt/
+* http://largedocument.com/
+* http://rghost.net/
+* http://dox.abv.bg/files/share
+* http://secureupload.eu/
 
 ### 🕵️ Anonymous Test 🕵️
 
-https://ipleak.net/
-https://www.dnsleaktest.com/
-https://diafygi.github.io/webrtc-ips/
+* https://ipleak.net/
+* https://www.dnsleaktest.com/
+* https://diafygi.github.io/webrtc-ips/
 
 ### 🧅 Torcheck 🧅
 
-http://5deqglhxcoy3gbx6.onion - Xenobite
-http://tmkloc6vhxos3nde.onion
+* http://5deqglhxcoy3gbx6.onion - Xenobite
+* http://tmkloc6vhxos3nde.onion
 
 ### 📩 SMS 📩
 
-http://receive-sms-now.com/
-http://www.receive-sms-online.info/
-http://www.receivesmsonline.net/
+* http://receive-sms-now.com/
+* http://www.receive-sms-online.info/
+* http://www.receivesmsonline.net/
 
 ### 🙃 Fake Identity 🙃
 
