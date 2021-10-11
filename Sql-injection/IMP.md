@@ -1,11 +1,11 @@
-Exploits Database 💥
+### 💥 Exploits Database 💥
 
 http://www.exploit-db.com/
 http://www.intelligentexploit.com
 http://www.shodanhq.com/
 http://packetstormsecurity.com/
 
-Vulnerabilities Database  🎯
+### 🎯 Vulnerabilities Database  🎯
 
 https://cve.mitre.org/cve/
 http://www.cvedetails.com/
@@ -19,7 +19,7 @@ http://denimgroup.com/resources-threadfix/
 http://www.vulnerability-lab.com
 http://www.secdocs.org/
 
-Hacking Tutorials 💻
+### 💻 Hacking Tutorials 💻
 
 https://www.offensive-security.com/
 http://www.kalitutorials.net/2013/08/kali-linux.html
@@ -48,7 +48,7 @@ https://anonscanner.com/
 http://nodistribute.com/
 http://www.file2scan.net/
 
-Tools Download 🛠
+### 🛠 Tools Download 🛠
 
 http://tools.kali.org/tools-listing
 http://insecure.org/
@@ -62,7 +62,7 @@ https://pentest-tools.com/reconnaissance/google-hacking
 https://gexos.github.io/Hacking-Tools-Repository/
 http://www.romhacking.net/utilities/
 
-Network Online Tools 🌐
+### 🌐 Network Online Tools 🌐
 
 http://www.yougetsignal.com/
 http://www.dnswatch.info/
@@ -73,7 +73,7 @@ http://bgp.he.net/
 http://www.sockets.com/services.htm
 http://services.ce3c.be/ciprg/
 
-IP Lookup 🔎
+### 🔎 IP Lookup 🔎
 
 http://ip-api.com/#
 http://www.my-ip-neighbors.com/
@@ -92,7 +92,7 @@ http://codebeautify.org/encrypt-decrypt
 http://textmechanic.com/Encryption-Generator.html
 http://www.yellowpipe.com/yis/tools/encrypter/
 
-Online Hash Crackers 🧱
+### 🧱 Online Hash Crackers 🧱
 
 http://www.hashkiller.co.uk/
 http://www.md5online.org/
@@ -111,7 +111,7 @@ https://isc.sans.edu/tools/reversehash.html
 http://www.onlinehashcrack.com/ [$]
 http://hashcrack.in/en [$]
 
-File Upload 📁
+### 📁 File Upload 📁
 https://mega.co.nz/
 https://www.mediafire.com/
 https://infotomb.com/m/welcome
@@ -125,24 +125,24 @@ http://rghost.net/
 http://dox.abv.bg/files/share
 http://secureupload.eu/
 
-Anonymous Test 🕵️
+### 🕵️ Anonymous Test 🕵️
 
 https://ipleak.net/
 https://www.dnsleaktest.com/
 https://diafygi.github.io/webrtc-ips/
 
-Torcheck 🧅
+### 🧅 Torcheck 🧅
 
 http://5deqglhxcoy3gbx6.onion - Xenobite
 http://tmkloc6vhxos3nde.onion
 
-SMS 📩
+### 📩 SMS 📩
 
 http://receive-sms-now.com/
 http://www.receive-sms-online.info/
 http://www.receivesmsonline.net/
 
-Fake Identity 🙃
+### 🙃 Fake Identity 🙃
 
 http://www.fakenamegenerator.com/
 https://fakena.me/
