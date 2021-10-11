@@ -1,16 +1,13 @@
 ### 💥 Exploits Database 💥
 
 http://www.exploit-db.com/
-
 http://www.intelligentexploit.com
-
 http://www.shodanhq.com/
-
 http://packetstormsecurity.com/
 
 ### 🎯 Vulnerabilities Database  🎯
 
-https://cve.mitre.org/cve/
+https://cve.mitre.org/cve/ 
 http://www.cvedetails.com/
 https://nvd.nist.gov/
 http://osvdb.org/
