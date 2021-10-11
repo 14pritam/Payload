@@ -34,13 +34,13 @@
 * https://vimeo.com/channels/fullscopesecurity
 * http://www.spacerogue.net/wordpress/
 
-Virus Scan 🦠
+### 🦠 Virus Scan 🦠
 
 * https://www.virustotal.com/nl/
 * http://anubis.iseclab.org/
 * http://virusscan.jotti.org/it
 
---Not distribute to AV--
+### --Not distribute to AV--
 
 * http://v2.scan.majyx.net/?page=home
 * http://fuckingscan.me/
@@ -84,7 +84,7 @@ Virus Scan 🦠
 * http://ipaddress.com
 * http://www.ip-adress.com/ipaddresstolocation/
 
-Encrypt / Decrypt ⛓
+### ⛓ Encrypt / Decrypt ⛓
 
 * http://crypo.in.ua/tools/
 * http://www.tools4noobs.com/online_tools/decrypt/
