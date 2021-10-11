@@ -1,8 +1,11 @@
 ### 💥 Exploits Database 💥
 
 http://www.exploit-db.com/
+
 http://www.intelligentexploit.com
+
 http://www.shodanhq.com/
+
 http://packetstormsecurity.com/
 
 ### 🎯 Vulnerabilities Database  🎯
