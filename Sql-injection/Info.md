@@ -2,10 +2,9 @@
 
 1.<script>alert(1)</script> 
 
-2.# Balancing
-   abc@gmail.com<script>alert(1)</script>
+2.Balancing gmail<script>alert(1)</script>
 
-3.abc@gmail.com<script>alert(1)</script>
+3. gmail<script>alert(1)</script>
 
 4. demo"><img src=x onerror=confirm(1)>
 
