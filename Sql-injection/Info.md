@@ -7,7 +7,7 @@
 
 3.abc@gmail.com<script>alert(1)</script>
 
-4.demo"><img src=x onerror=confirm(1)>
+4. demo"><img src=x onerror=confirm(1)>
 
 5."><img src=x onerror=confirm(1)>
 
