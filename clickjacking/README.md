@@ -9,4 +9,13 @@ There are three possible values for the X-Frame-Options header:
 2. SAMEORIGIN : which only allows the current site to frame the content.
 3. ALLOW-FROM uri : which permits the specified 'uri' to frame this page. (e.g., ALLOW-FROM http://www.example.com ).
 
+### Example :
+Website A : A website vulnerable to clickjacking which says that "You won a free iPhone!" so
+that the victim gets lured by "Claiming the Prize!"
+Website B: It is an attacker controlled website wherein you have the option to "Pay"
+This is the exact scenario of how Clickjacking works. Attackers create an attractive website, in our case website A, to lure the victim. Create an iframe and load it in the attacker controlled domain which is website B.
+In this manner the attacker manages to fool the victim and make him pay while attracting him for a free prize!
+So this is how Clickjacking attack is performed.
+
+
 
