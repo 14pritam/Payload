@@ -17,4 +17,6 @@ This is the exact scenario of how Clickjacking works. Attackers create an attrac
 In this manner the attacker manages to fool the victim and make him pay while attracting him for a free prize!
 So this is how Clickjacking attack is performed.
 
+How To identify:
+
 
