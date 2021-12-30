@@ -3,22 +3,22 @@ There are many headers and paths which you can use to bypass 403 restrictions.
 
 1.Adding in URL Paths: Adding this in paths of the URL and the file which is forbidden
 
-/*
-/%2f/
-/./
-/
-/*/
+    /*
+    /%2f/
+    /./
+    /
+    /*/
 
 2.Adding Headers in request :By adding different headers in request with value 127.0.0.1 can also help in bypassing restrictions.
 
-X-Custom-IP-Authorization
-X-Forwarded-For
-X-Forward-For
-X-Remote-IP
-X-Originating-IP
-X-Remote-Addr
-X-Client-IP
-X-Real-IP
+    X-Custom-IP-Authorization
+    X-Forwarded-For
+    X-Forward-For
+    X-Remote-IP
+    X-Originating-IP
+    X-Remote-Addr
+    X-Client-IP
+    X-Real-IP
 
 Reference: https://github.com/yunemse48/403bypasser
 
