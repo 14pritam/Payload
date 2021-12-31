@@ -11,8 +11,11 @@ Refer: https://github.com/EdOverflow/can-i-take-over-xyz
 use tools
 
 1.Aquatone
+
 2.subzy
+
 3.subjack
+
 4.subover
 
 3. ▶ Run :  ping subdomain.com 
