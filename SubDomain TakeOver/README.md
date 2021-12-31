@@ -26,5 +26,11 @@ step 3 to find ip address
 
 5. ▶ Run : dig subdomain.com
 
+status: NX DOMAIN
+CNAME: find
+
+The region need to be same 
+find Region 
+use  https://mxtoolbox.com/ and in that use Reverse Lookup
 
 Reference: https://www.youtube.com/watch?v=67chVkq3g0M
