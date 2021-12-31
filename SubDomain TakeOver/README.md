@@ -27,7 +27,7 @@ step 3 to find ip address
 
 5. ▶ Run : dig subdomain.com
 
-status: NX DOMAIN
+status: NX DOMAIN  error message means that the domain does not exist
 CNAME: find
 
 The region need to be same 
