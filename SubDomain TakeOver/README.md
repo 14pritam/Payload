@@ -2,9 +2,11 @@
 
 1. ▶ Run : subfinder -d target.com | httpx --status-code --title 
 
+2. ▶ Run : finddomain -t target.com -r
+
 2. ▶ Run : finddomain -t target.com
 
-Step 1 and 2 is used to find subdomain
+Step 1 , 2 , 3 is used to find subdomain
 
 https://www.nmmapper.com/sys/tools/subdomainfinder/
 
