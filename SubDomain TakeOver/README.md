@@ -6,6 +6,8 @@
 
 Step 1 and 2 is used to find subdomain
 
+https://www.nmmapper.com/sys/tools/subdomainfinder/
+
 Refer: https://github.com/EdOverflow/can-i-take-over-xyz
 
 use tools
