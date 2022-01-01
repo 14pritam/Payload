@@ -31,7 +31,9 @@ status: NX DOMAIN  error message means that the domain does not exist
 CNAME: find
 
 The region need to be same 
-find Region 
-use  https://mxtoolbox.com/ and in that use Reverse Lookup
+
+find Region fot that use  https://mxtoolbox.com/ and in that use Reverse Lookup
+
+Cname will tell u about hosting service
 
 Reference: https://www.youtube.com/watch?v=67chVkq3g0M
